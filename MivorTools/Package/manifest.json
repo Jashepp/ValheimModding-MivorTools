@@ -1,0 +1,11 @@
+{
+    "name": "MivorTools",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/Jashepp/ValheimModding-MivorTools",
+    "description": "Misc quality-of-life features for valheim",
+    "author": "@Jashepp",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1901",
+        "ValheimModding-Jotunn-2.10.1"
+    ]
+}
